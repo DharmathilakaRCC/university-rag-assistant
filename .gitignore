@@ -1,0 +1,19 @@
+# Virtual environment
+rag_env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ChromaDB
+chroma_db/
+
+# PDF documents
+data/
+
+# Secrets
+.env
+
+# VS Code settings
+.vscode/
